@@ -81,9 +81,9 @@ Script: 1to5PC & Trivion BB
 Editor: 1to5PC
 ********
 Charactors:
-The normal kid: Sandaru
+The normal kid: Sandrew
 The cool guy & Hecker: Trivion bb
 The gamer: 1to5PC
 *********
 Subscribe to;
-Trivion bb & 1to5pc & Scitto
+Trivion bb & 1to5pc & Sandrew Parker

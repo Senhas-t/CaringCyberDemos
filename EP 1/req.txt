@@ -1,3 +1,4 @@
 {Sys Requirements}
 Discord exe file
 Opera GX browser
+{Sys Req END}
